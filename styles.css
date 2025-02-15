@@ -563,6 +563,7 @@ profile-photo .img{
  .br{
   border: solid white 1px;
   border-radius: 9px;
+  padding: 10px;
  }
 .capsule{
   min-width: 200px;
@@ -580,6 +581,9 @@ profile-photo .img{
   align-content: stretch;
   border-bottom-left-radius: 40%;
   border-top-left-radius: 40%;
+}
+.skill-color p{
+  margin-top: 10px;
 }
 .main-heading{
   padding:3rem 0 2rem 0;
