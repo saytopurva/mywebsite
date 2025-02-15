@@ -54,7 +54,7 @@ $(document).ready(function() {
     ScrollReveal().reveal(".header a, .profile-photo, .about-content, .education", {
       origin: "left"
     });
-    ScrollReveal().reveal(".header ul, .profile-text, .about-skills, .internship", {
+    ScrollReveal().reveal(".header ul, .profile-text, .about-skills, .skill", {
       origin: "right"
     });
     ScrollReveal().reveal(".project-title, .contact-title", {
