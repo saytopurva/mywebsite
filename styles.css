@@ -569,11 +569,11 @@ profile-photo .img{
   min-width: 200px;
   height: 3rem;
   margin:2%;
-  background-color: gainsboro;
-  border-radius: 30%;
+  background-color: rgb(167, 165, 165);
+  border-radius: 15%;
   text-align: center;
   font-weight: bolder;
-  border-style: groove;
+  border-style: groove; 
   display: flex;
   overflow: hidden;
 }
